@@ -155,3 +155,11 @@
 <p align="center">
   <img src="https://github.com/sidichrifahmedmaadh/sidichrifahmedmaadh/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
