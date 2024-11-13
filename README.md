@@ -33,7 +33,7 @@
   </a> -->
 </div>
 
-<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =50px> Programming Languages :</h2>
+<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> Programming Languages :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
