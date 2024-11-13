@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/37d7fcb7-6763-4566-a6cd-1db01f467cab)<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </p>
     
@@ -16,7 +16,7 @@
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
     <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
     <a href="https://atcoder.jp/users/sidi_maadh"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCode" width=8%/></a>    
-    <a href="https://www.codechef.com/users/sidi_maadh"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width=8%/></a>
+    <a href="https://www.codechef.com/users/sidi_maadh"><img src="https://i.ibb.co/1Lhthqg/images-3.jpg" alt="CodeChef" width=8%/></a>
     <a href="https://www.hackerrank.com/profile/sidichrifahdmaa1"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
