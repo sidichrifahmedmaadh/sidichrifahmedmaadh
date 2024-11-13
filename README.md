@@ -3,11 +3,11 @@
 <h1/>
 
 <div>
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50"> About me : 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50"> About me : 
     
-    <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Full-           Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
-    </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
+</p>
 </div>
 
 <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  My Competitive Programming Profiles : </h2>
