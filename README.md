@@ -78,7 +78,7 @@
 <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
 <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
@@ -153,7 +153,6 @@
 </details>
 
 
-
 ## 🐍 My Contributions 🐍
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
