@@ -17,7 +17,7 @@
     <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
     <a href="https://atcoder.jp/users/sidi_maadh"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCode" width=80/></a>    
     <a href="https://www.codechef.com/users/sidi_maadh"><img src="https://i.ibb.co/1Lhthqg/images-3.jpg" alt="CodeChef" width=80/></a>
-    <a href="https://www.hackerrank.com/profile/sidichrifahdmaa1"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
+    <a href="https://www.hackerrank.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
 <h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 50px> Connect with me : </h2>
