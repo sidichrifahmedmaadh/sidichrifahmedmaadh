@@ -11,7 +11,7 @@
 </div>
 
 <div id="2">
-    <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  My Competitive Programming Profiles : </h2>
+    <h3 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  My Competitive Programming Profiles : </h3>
     <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidichrifahdmaadh/"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
