@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/37d7fcb7-6763-4566-a6cd-1db01f467cab)<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
+<p>
+<img src="https://readme-typingsvg.herokuapp.com/font=Righteous&color=00&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </p>
     
 
