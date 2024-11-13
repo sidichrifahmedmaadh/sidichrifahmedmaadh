@@ -81,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 >📝 Testing : </h2>
+<h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
