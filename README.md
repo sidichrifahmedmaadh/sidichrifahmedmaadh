@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </p>
     
