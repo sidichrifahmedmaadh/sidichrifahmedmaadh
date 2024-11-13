@@ -5,7 +5,7 @@
     
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
 </p>
 
 
