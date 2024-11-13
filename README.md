@@ -90,3 +90,12 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
+
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 60px> Operating Systems : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
+</div>
+
+<br/>
+<hr/>
