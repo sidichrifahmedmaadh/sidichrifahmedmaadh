@@ -61,7 +61,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
 </div>
 
-<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 60px> DevOps : </h2>
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 80px> DevOps : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
