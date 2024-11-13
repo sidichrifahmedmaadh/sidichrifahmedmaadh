@@ -101,7 +101,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Streak Stats : </h3></summary>
 
 ----	
 
@@ -109,7 +109,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub Profile Stats : </h3></summary>
 
 ----
 	
@@ -121,7 +121,7 @@
 
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: Git profile Trophies : </h3></summary>
 
 ----
 	
@@ -131,7 +131,7 @@
 </details>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My Repositories : </h3></summary>
 
 ----
 	
