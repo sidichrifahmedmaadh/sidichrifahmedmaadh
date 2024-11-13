@@ -150,11 +150,10 @@
       
 	</p> 
 </div>
-
 </details>
 
 
 
-## <h2>🐍 My Contributions 🐍</h2>
+## 🐍 My Contributions 🐍
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
