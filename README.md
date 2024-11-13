@@ -75,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /><br>
 </div>
 
-<h2 > Framework : </h2>
+<h2 > <img src = "</h2>https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
@@ -87,7 +87,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-## AI/ML :
+ <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> AI/ML : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
