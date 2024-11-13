@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
 </div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 60px> Frontend Development :</h2>
+<h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 60px> Frontend Development :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=css,html,bootstrap" /><br>
