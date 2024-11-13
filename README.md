@@ -18,7 +18,7 @@
     <a href="https://www.hackerrank.com/profile/sidichrifahdmaa1"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
-<h2 >📬Connect me with : </h2>
+<h2 >📬Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,5 +29,23 @@
   <!-- <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a> -->
+</div>
+
+<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%"> Programming Languages :</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
+</div>
+
+<h2 > Frontend Development :</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,html,bootstrap" /><br>
+</div>
+
+<h2 > Backend Development : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
