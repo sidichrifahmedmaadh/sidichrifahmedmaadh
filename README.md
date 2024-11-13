@@ -100,6 +100,9 @@
 </div>
 
 
+## 🐍 My Contributions 🐍
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats :
@@ -152,7 +155,3 @@
 </div>
 </details>
 
-
-## 🐍 My Contributions 🐍
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
