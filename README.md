@@ -49,3 +49,44 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 60px> Mobile App Development : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+</div>
+
+<h2 > <img src = "https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" width = 60px> Database : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+</div>
+
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 60px> DevOps : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
+</div>
+
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 60px> IDEs : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /><br>
+</div>
+
+<h2 > Framework : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<h2 >📝 Testing : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+## <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p> AI/ML :
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
