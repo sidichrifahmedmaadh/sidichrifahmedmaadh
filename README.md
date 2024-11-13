@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
-</h1>
+</p>
     
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50"> About me : 
