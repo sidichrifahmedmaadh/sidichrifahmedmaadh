@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=css,html,bootstrap" /><br>
 </div>
 
-<h2 > Backend Development : </h2>
+<h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 50px> Backend Development : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
