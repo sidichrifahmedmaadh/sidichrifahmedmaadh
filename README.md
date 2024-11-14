@@ -174,17 +174,17 @@
 ----
 
 <div>
-<p align="center">
-	<a href="https://github.com/7oSkaaa/SiteWeb_SOMAPR">
+   <p align="center">
+	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_SOMAPR">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_SOMAPR&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/SiteWeb_MonProf">
+	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_MonProf">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_MonProf&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/GraphicInterface_StudentManagement">
+    	<a href="https://github.com/sidichrifahmedmaadh/GraphicInterface_StudentManagement">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=GraphicInterface_StudentManagement&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/JAVA_FileManipulation">
+    	<a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
     	
   </p>
