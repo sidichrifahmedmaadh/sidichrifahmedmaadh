@@ -30,6 +30,10 @@
     <a href="https://www.hackerrank.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
+
+
+
+<!-- Socials -->
 <h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 50px> Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
@@ -48,6 +52,10 @@
 
 </div>
 
+
+
+
+<!-- Tech Stack -->
 <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> Programming Languages :</h2>
 <br/>
 <div align="center">
@@ -116,6 +124,7 @@
 
 
 
+<!-- Stats -->
 ## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
@@ -176,7 +185,15 @@
 </details>
 
 
+<!-- Snake -->
 <h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
 <br/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
+
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=sidichrifahmedmaadh&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
