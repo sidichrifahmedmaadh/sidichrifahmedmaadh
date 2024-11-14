@@ -167,12 +167,11 @@
 <div>
     <p align="center">
         <a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
-      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats"/>
-    	</a>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats"/> </a>
 		
 	<a href="https://github.com/sidichrifahmedmaadh/GraphicInterface_StudentManagement">
-      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=GraphicInterface_StudentManagement&theme=tokyonight" alt="GitHub Stats"/>
-    	</a>  
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=GraphicInterface_StudentManagement&theme=tokyonight" alt="GitHub Stats"/
+        </a>  
    </p> 
 </div>
 </details>
