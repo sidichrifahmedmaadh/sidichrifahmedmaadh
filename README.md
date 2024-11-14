@@ -19,10 +19,6 @@
 <!-- - :boom: You can visit [MY WEBSITE](). -->
 <br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
-
 
 ## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 50px>  My Competitive Programming Profiles : 
 <p align="center" width=100%>
@@ -45,6 +41,10 @@
   <!-- <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a> -->
+
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 </div>
 
 <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> Programming Languages :</h2>
