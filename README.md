@@ -124,6 +124,7 @@
 
 
 
+
 <!-- Stats -->
 ## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
 
@@ -174,7 +175,10 @@
 	
 <div>
     <p align="center">
-        <a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
+       <a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats"/> </a>
+
+       <a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats"/> </a>
 		
 	<a href="https://github.com/sidichrifahmedmaadh/GraphicInterface_StudentManagement">
