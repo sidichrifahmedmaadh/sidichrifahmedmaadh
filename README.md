@@ -9,13 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania+🇲🇷;Computer+Science+Student+🧑‍🎓;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
 </p>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://ci.tanta.edu.eg/) at [Tanta University].
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Web Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  My Competitive Programming Profiles : 
 <p align="center" width=100%>
