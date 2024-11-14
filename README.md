@@ -111,12 +111,6 @@
 
 
 
-<h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
-<br/>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
-
-
-
 ## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
@@ -175,4 +169,10 @@
    </p> 
 </div>
 </details>
+
+
+<h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
+<br/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
+
 
