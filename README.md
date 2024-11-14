@@ -133,8 +133,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidichrifahmedmaadh&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sidichrifahmedmaadh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidichrifahmedmaadh&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
+[![@sidichrifahmedmaadh's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@sidichrifahmedmaadh)
 	
 </details>
 
@@ -147,15 +148,6 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidichrifahmedmaadh&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@sidichrifahmedmaadh's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@sidichrifahmedmaadh)
-	
-</details>
 
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
