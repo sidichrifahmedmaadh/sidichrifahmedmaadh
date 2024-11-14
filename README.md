@@ -15,7 +15,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - ✍🏻 I love using Software as a solution for every Problem
 - 😎 Always learning new things
-- :thinking: This is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: This is [MY RESUME]().
 <!-- - :boom: You can visit [MY WEBSITE](). -->
 <br>
 
