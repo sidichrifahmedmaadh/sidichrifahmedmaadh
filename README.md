@@ -20,7 +20,7 @@
 <br>
 
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  My Competitive Programming Profiles : 
+## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 50px>  My Competitive Programming Profiles : 
 <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
@@ -61,7 +61,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 60px> Mobile App Development : </h2>
+<h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 60px> Mobile App Development : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
@@ -73,13 +73,13 @@
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
 </div>
 
-<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 80px> DevOps : </h2>
+<h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 80px> DevOps : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
 </div>
 
-<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 60px> IDEs : </h2>
+<h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px> IDEs : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /><br>
@@ -103,7 +103,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 60px> Operating Systems : </h2>
+<h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 60px> Operating Systems : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
@@ -117,7 +117,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats :
+## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
 
