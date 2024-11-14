@@ -166,13 +166,13 @@
 	
 <div>
 	<p align="center">
-<!-- 	<a href="https://github.com/sidichrifahmedmaadh/JAVA_ManipulationFichier">
+ 	<a href="https://github.com/sidichrifahmedmaadh/JAVA_ManipulationFichier">
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_ManipulationFichier&theme=tokyonight" alt="GitHub Stats"/>
     	</a>
 		
 	<a href="https://github.com/sidichrifahmedmaadh/InterfaceGraphique_GestionEtudiant">
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=InterfaceGraphique_GestionEtudiant&theme=tokyonight" alt="GitHub Stats"/>
-    	</a> -->
+    	</a> 
       
 	</p> 
 </div>
