@@ -11,7 +11,7 @@
 
 <br><br>
 <!-- - 👨‍💻 I'm Software Development Engineer @[non Ets]() -->
-- :school: I `graduated`  at [LIU University](https://www.liu.edu.lb/).
+- :school: I am a computer science and information technology `student` at [LIU University](https://www.liu.edu.lb/).
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - ✍🏻 I love using Software as a solution for every Problem
 - 😎 Always learning new things
