@@ -102,7 +102,7 @@
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 60px> A Snake Eating my Contributions Graph : </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
 </div>
