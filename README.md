@@ -7,10 +7,10 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me :
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=40%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer @[noon](https://www.noon.com/egypt-en/)
+<!-- - 👨‍💻 I'm Software Development Engineer @[non Ets]() -->
 - :school: I `graduated`  at [LIU University](https://www.liu.edu.lb/).
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - ✍🏻 I love using Software as a solution for every Problem
