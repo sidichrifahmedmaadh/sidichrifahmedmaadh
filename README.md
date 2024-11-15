@@ -8,16 +8,23 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
 </p>
 
+
+<!-- Github badges section -->
 <p align="center">
-  <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/sidichrifahmedmaadh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidichrifahmedmaadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/sidichrifahmedmaadh/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/sidichrifahmedmaadh-profile-views"/></a>
+	<a href="https://github.com/sidichrifahmedmaadh?tab=followers">
+ 	<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidichrifahmedmaadh?				 
+   	color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+	</a>
+	<a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
+	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-		badge&labelColor=488207&logo=star"/>
+	</a>
+  	<a href="https://github.com/sidichrifahmedmaadh/Simple-View-Counter">
+    	<img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/sidichrifahmedmaadh-profile-views"/>
+	</a>
 </p>
 
 
+<!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 60px> About me :
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br><br>
@@ -31,6 +38,8 @@
 <br>
 
 
+
+<!-- Competitive Programming & Problem Solving Profiles section -->
 ## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 60px>  My Competitive Programming & Problem Solving Profiles : 
 <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
@@ -44,7 +53,7 @@
 
 
 
-<!-- Socials -->
+<!-- Socials section -->
 <h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 60px> Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
@@ -73,7 +82,7 @@
 
 
 
-<!-- Tech Stack -->
+<!-- Tech Stack section -->
 <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> Programming Languages :</h2>
 <br/>
 <div align="center">
@@ -143,7 +152,7 @@
 
 
 
-<!-- Stats -->
+<!-- Stats section -->
 ## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
@@ -216,13 +225,13 @@
 </details>
 
 
-<!-- Snake -->
+<!-- Snake section -->
 <h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
 <br/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
 
 
-<!-- Counter -->
+<!-- Counter section -->
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=sidichrifahmedmaadh&icon=10&color=6)](https://visitcount.itsvg.in)
