@@ -75,76 +75,66 @@
 
 </div>
 
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
+	<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> 		Programming Languages :</h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
+	</div>
 
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 60px> Frontend Development :</h2>
+	<br/>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br>
+	</div>
 
-<!-- Tech Stack section -->
-<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> Programming Languages :</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
-</div>
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 60px> Backend Development : </h2>
+	<br/>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=" /><br>
+	</div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 60px> Frontend Development :</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br>
-</div>
+	<h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 60px> Mobile App Development : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+	</div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 60px> Backend Development : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
-</div>
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=0kgvtD965bo3&format=png&color=000000" width = 50px>  Database : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+	</div>
 
-<h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 60px> Mobile App Development : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
-</div>
+	<h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 80px> DevOps : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
+	</div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=0kgvtD965bo3&format=png&color=000000" width = 50px>  Database : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
-</div>
+	<h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px> IDEs : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /><br>
+	</div>
 
-<h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 80px> DevOps : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
-</div>
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=" /><br>
+	</div>
 
-<h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px> IDEs : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /><br>
-</div>
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=" /><br>
+	</div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
-</div>
+	<h2 > <img src = "https://img.icons8.com/?size=100&id=jQhWk5R601OC&format=png&color=000000" width = 60px> AI/ML : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=" /><br>
+	</div>
 
-<h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
-</div>
-
-<h2 > <img src = "https://img.icons8.com/?size=100&id=jQhWk5R601OC&format=png&color=000000" width = 60px> AI/ML : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
-</div>
-
-<h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 60px> Operating Systems : </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
-</div>
-
+	<h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 60px> Operating Systems : </h2>
+	<div align="center">
+	    <img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
+	</div>
+</details>
 
 
 
