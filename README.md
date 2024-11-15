@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-	<b><h1>Hi...I'm Sidi Chrif Ahmed Maadh👋</h1></b>
-</p>
-
-<p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
 </p>
 
