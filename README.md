@@ -115,7 +115,7 @@
 
 
 <!-- Stats section -->
-## <picture> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats :
+<details><summary> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats : </summary>
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
 
@@ -186,6 +186,7 @@
 </div>
 </details>
 
+</details>
 
 <!-- Snake section -->
 <h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
