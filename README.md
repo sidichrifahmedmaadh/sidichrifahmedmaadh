@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2b2b2b&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sidi+Chrif+Ahmed+Maadh;" />
+	<img src="https://i.ibb.co/F5t7z1w/scam.png" alt="Hello World" width="100%" />
 </p>
 
 <p align="center">
