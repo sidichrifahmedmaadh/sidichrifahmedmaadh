@@ -16,7 +16,7 @@
   <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sidichrifahmedmaadh/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/jonah/app/sidichrifahmedmaadh-profile-views"/></a>
 </p>
 
 
