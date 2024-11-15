@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2b2b2b&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </p>
 
-**Hi there!👋 <br/>I'm Sidi Chrif Ahmed Maadh**
+<h2 style="font-size: 25px; color: blue;">Hi there!👋 <br/>I'm Sidi Chrif Ahmed Maadh</h2>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
