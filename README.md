@@ -191,7 +191,11 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
     	
   </p>
-	
+ 	
+  <p align="center">
+<i>If you like it, give the <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> project repository</a>  a star on Github and<br/><a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> share </a>  with your friends!! I will be happy with it! ❤️</i>
+</p>
+
 </div>
 </details>
 
