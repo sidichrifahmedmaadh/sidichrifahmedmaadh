@@ -22,7 +22,7 @@
 
 <!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://i.ibb.co/VTfNsDx/Right-Side-1.gif" width=30%>
 <br><br>
 
 - :school: I am a `student` of computer science and information technology at [LIU University](https://www.liu.edu.lb/).
