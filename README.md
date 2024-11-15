@@ -87,13 +87,13 @@
   <h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 45px> Backend Development : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=spring" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 45px> Mobile App Development : </h2>
+  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 55px> Mobile App Development : </h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart" /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=0kgvtD965bo3&format=png&color=000000" width = 45px>  Database and Cloud Hosting : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 45px> DevOps : </h2>
+  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 55px> DevOps : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
   <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 45px> IDEs : </h2>
@@ -189,7 +189,7 @@
 </details>
 
 <!-- Snake section -->
-<h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 55px> A Snake Eating my Contributions Graph : </h2>
+<h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 45px> A Snake Eating my Contributions Graph : </h2>
 <br/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
 
