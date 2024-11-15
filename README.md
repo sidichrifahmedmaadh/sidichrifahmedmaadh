@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/q7FWt5J/banner-github.jpg" alt="GitHub Banner" width="100%" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2b2b2b&size=45&center=true&vCenter=true&width=700&height=70&duration=7000&lines=Hi+...+I'm+Sidi+Chrif+Ahmed+Maadh+👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2b2b2b&size=45&center=true&vCenter=true&width=700&height=70&duration=10000&lines=Hi+...+I'm+Sidi+Chrif+Ahmed+Maadh+👋;" />
 </p>
 
 <p align="center">
