@@ -21,7 +21,7 @@
 
 
 <!-- Info section -->
-## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 60px> About me :
+## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br><br>
 
@@ -36,7 +36,7 @@
 
 
 <!-- Competitive Programming & Problem Solving Profiles section -->
-## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 60px>  My Competitive Programming & Problem Solving Profiles : 
+## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 55px>  My Competitive Programming & Problem Solving Profiles : 
 <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
@@ -48,7 +48,7 @@
 
 
 <!-- Socials section -->
-<h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 60px> Connect with me : </h2>
+<h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 55px> Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -68,54 +68,54 @@
   </a> -->
 
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be 
   happy to meet you more!</b> :)</em>
 
 </div>
 
 
 <details> 
-  <summary><h2>  <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=9%> 
+  <summary><h2>  <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=55px> 
   My Favorite Tools : </h2></summary>
   <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> 		 
    Programming Languages :</h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /></p>
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 60px> Frontend Development :</h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 45px> Frontend Development :</h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" /></p>
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 60px> Backend Development : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 45px> Backend Development : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=spring" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 60px> Mobile App Development : </h2>
+  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 45px> Mobile App Development : </h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart" /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=0kgvtD965bo3&format=png&color=000000" width = 45px>  Database and Cloud Hosting : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 80px> DevOps : </h2>
+  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 45px> DevOps : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px> IDEs : </h2>
+  <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 45px> IDEs : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /></p>
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 45px> Framework : </h2>
   
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 45px> Testing : </h2>
   
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=jQhWk5R601OC&format=png&color=000000" width = 60px> AI/ML : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=jQhWk5R601OC&format=png&color=000000" width = 45px> AI/ML : </h2>
   
 
-  <h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 60px> Operating Systems : </h2>
+  <h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 45px> Operating Systems : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=windows,ubuntu" /></p>
 </details>
 
 
 
 <!-- Stats section -->
-<details><summary> <h2><img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 60px> Github Stats : </h2> </summary>
+<details><summary> <h2><img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 55px> Github Stats : </h2> </summary>
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
 
