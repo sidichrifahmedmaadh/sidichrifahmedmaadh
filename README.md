@@ -188,8 +188,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=GraphicInterface_StudentManagement&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
-    	
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />   
   </p>
  	
   <p align="center">
