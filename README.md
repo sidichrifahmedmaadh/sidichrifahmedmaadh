@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=2b2b2b&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </p>
 
-<p align="center" style="font-size: 45px;">Hi there!👋 <br/>
+<p align="center" style="font-size: 18px; color: gray;">Hi there!👋 <br/>
 I'm Sidi Chrif Ahmed Maadh</p>
 
 <p align="center">
