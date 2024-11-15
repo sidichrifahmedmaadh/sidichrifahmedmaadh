@@ -45,6 +45,13 @@
   <a href="https://www.linkedin.com/in/sidi-chrif-ahmed-maadh-6937402a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://wa.me/22232929293" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+  <a href="https://www.facebook.com/sidi.chrifahmed.5?mibextid=LQQJ4d" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
   <!-- <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a> -->
