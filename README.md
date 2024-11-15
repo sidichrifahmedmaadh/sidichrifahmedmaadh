@@ -47,8 +47,6 @@
 <p/>
 
 
-
-
 <!-- Socials section -->
 <h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 60px> Connect with me : </h2>
 <div align="center"> 
@@ -75,13 +73,12 @@
 
 </div>
 
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-	<h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> 		Programming Languages :</h2>
-	<div align="center">
-	    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
-	</div>
+  <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> 		 
+   Programming Languages :</h2>
+   <p><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br></p>
 
 	<h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 60px> Frontend Development :</h2>
 	<br/>
