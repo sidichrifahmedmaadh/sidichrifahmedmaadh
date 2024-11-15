@@ -193,7 +193,7 @@
   </p>
  	
   <p align="center">
-<i>If you like it, give the <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> project repository</a>  a star on Github and<br/><a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> share </a>  with your friends!! I will be happy with it! ❤️</i>
+	If you like it, give the <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> project repository</a>  a star on Github and<br/><a 			href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"> share </a>  with your friends!! I will be happy with it! ❤️
 </p>
 
 </div>
