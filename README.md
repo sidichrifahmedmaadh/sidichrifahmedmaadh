@@ -115,7 +115,7 @@
 
 
 <!-- Stats section -->
-<details><summary> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 50px>  </picture> Github Stats : </summary>
+<details><summary> <img src = "https://i.ibb.co/k38jRZM/Statistics.gif" width = 60px> <b>Github Stats :</b> </summary>
 
 <details><summary><h3> 🔥 Streak Stats </h3></summary>
 
