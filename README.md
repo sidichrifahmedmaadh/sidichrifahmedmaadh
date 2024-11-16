@@ -16,7 +16,6 @@
 ![logo](https://github.com/sidichrifahmedmaadh/sidichrifahmedmaadh/blob/main/Github%20Banner.png)
 
 </p>
-https://i.ibb.co/VTfNsDx/Right-Side-1.gif
 
 <!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif
