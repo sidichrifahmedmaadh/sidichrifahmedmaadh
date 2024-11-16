@@ -11,8 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidichrifahmedmaadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<a href="ttps://github.com/sidichrifahmedmaadh/Simple-View-Counter"">
-  <img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=visitors&color=0e75b6&labelColor=488207&logo=starstyle=flat" alt="sidichrifahmedmaadh" /> </a>
 
 </p>
 
