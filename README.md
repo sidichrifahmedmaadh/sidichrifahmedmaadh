@@ -55,11 +55,11 @@
   <a href="https://www.facebook.com/sidi.chrifahmed.5?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/in/22232929293" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.facebook.com/sidi.chrifahmed.5?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://wa.me/in/22232929293" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Facebook"/>
   </a>
   
   <!-- <a href="" target="_blank">
