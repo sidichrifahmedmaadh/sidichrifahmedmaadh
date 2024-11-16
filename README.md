@@ -12,7 +12,7 @@
   <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="ttps://github.com/sidichrifahmedmaadh/Simple-View-Counter"">
-  <img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=visitors&color=0e75b6&logo=star&style=flat" alt="sidichrifahmedmaadh" /> </a>
+  <img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=visitors&color=0e75b6&labelColor=488207&logo=starstyle=flat" alt="sidichrifahmedmaadh" /> </a>
 
 </p>
 
