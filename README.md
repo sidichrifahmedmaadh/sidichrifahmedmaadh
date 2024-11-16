@@ -56,10 +56,10 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/SidiMaadh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%2325D366.svg?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Twitter-%2325D366.svg?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
   <a href="https://wa.me/in/22232929293" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   
   <!-- <a href="" target="_blank">
