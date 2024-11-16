@@ -13,13 +13,12 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sidichrifahmedmaadh/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="[https://custom-icon-badges.demolab.com/jonah/app/sidichrifahmedmaadh-profile-views](https://custom-icon-badges.demolab.com/github/views/sidichrifahmedmaadh?Color=white&style=for-the-badge&labelColor=C79600)"/></a>
-![logo](https://github.com/sidichrifahmedmaadh/sidichrifahmedmaadh/blob/main/Github%20Banner.png)
 
 </p>
 
 <!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
-<img align="right" src="https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=400px>
+<img align="right" src="https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=300px>
 <br><br>
 
 - :school: I am a `student` of computer science and information technology at [LIU University](https://www.liu.edu.lb/).
