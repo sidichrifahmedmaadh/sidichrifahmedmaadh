@@ -18,8 +18,9 @@
 </p>
 
 
+https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif
 <!-- Info section -->
-## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
+## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 55px> About me :
 <img align="right" src="https://i.ibb.co/VTfNsDx/Right-Side-1.gif" width=30%>
 <br><br>
 
@@ -30,11 +31,8 @@
 - :thinking: This is [MY RESUME]().
 
 
-
-https://i.ibb.co/t3nQqD4/CP-PS.gi
 <!-- Competitive Programming & Problem Solving Profiles section -->
-## <img src = "https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
-" width = 55px>  My Competitive Programming Profiles : 
+## <img src = "https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width = 55px>  My Competitive Programming Profiles : 
 <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
