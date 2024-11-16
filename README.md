@@ -7,6 +7,7 @@
 
 <!-- Github badges section -->
 <p align="center">  
+	
   <a href="https://github.com/sidichrifahmedmaadh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidichrifahmedmaadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
@@ -191,6 +192,6 @@
 
 <!-- Counter section -->
 <div align="center">
-    (https://visitcount.itsvg.in/api?id=sidichrifahmedmaadh&icon=10&color=6)](https://visitcount.itsvg.in)
+	<img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=Profile%20views&color=0e75b6&style=flat" alt="sidichrifahmedmaadh" /> 
 </div>
 
