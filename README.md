@@ -61,9 +61,6 @@
   <a href="https://wa.me/in/22232929293" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Facebook"/>
-  </a>
   
   <!-- <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
