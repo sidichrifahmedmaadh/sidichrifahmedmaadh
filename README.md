@@ -18,7 +18,6 @@
 
 <!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
-<img align="right" src="https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=300px>
 <br><br>
 
 - :school: I am a `student` of computer science and information technology at [LIU University](https://www.liu.edu.lb/).
@@ -26,6 +25,7 @@
 - ✍🏻 I love using Software as a solution for every Problem.
 - 😎 Always learning new things.
 - :thinking: This is [MY RESUME]().
+<img align="right" src="https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=300px>
 
 
 <!-- Competitive Programming & Problem Solving Profiles section -->
