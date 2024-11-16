@@ -18,8 +18,7 @@
 </p>
 
 <!-- Info section -->
-## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif
-" width = 55px> About me :
+## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me :
 <img align="right" src="https://i.ibb.co/Hp2Hn64/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=30%>
 <br><br>
 
