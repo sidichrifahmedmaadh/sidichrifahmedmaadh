@@ -13,7 +13,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sidichrifahmedmaadh/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="[https://custom-icon-badges.demolab.com/jonah/app/sidichrifahmedmaadh-profile-views](https://custom-icon-badges.demolab.com/github/views/sidichrifahmedmaadh?Color=white&style=for-the-badge&labelColor=C79600)"/></a>
-    [![HitCount](https://hits.dwyl.com/sidichrifahmedmaadh/sidichrifahmedmaadh.svg?style=flat-square)](http://hits.dwyl.com/sidichrifahmedmaadh/sidichrifahmedmaadh)
+  [![HitCount](https://hits.dwyl.com/sidichrifahmedmaadh/sidichrifahmedmaadh.svg?style=flat)](http://hits.dwyl.com/sidichrifahmedmaadh/sidichrifahmedmaadh)
 
 </p>
 
