@@ -46,7 +46,7 @@
 <p/>
 
 <!-- Socials section -->
-<h2 > <img src = "https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif?cid=ecf05e47fi1fly2hchmpj9q5bfdsqrakifqlffn8bo2ora1q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 10%> Connect with me : </h2>
+<h2 > <img src = "https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif?cid=ecf05e47fi1fly2hchmpj9q5bfdsqrakifqlffn8bo2ora1q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 8%> Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
