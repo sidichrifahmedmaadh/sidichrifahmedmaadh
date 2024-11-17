@@ -1,12 +1,16 @@
 <img src="https://i.ibb.co/q7FWt5J/banner-github.jpg" alt="GitHub Banner" width="100%" />
 
-<p align="center"> <img src="https://i.ibb.co/F5t7z1w/scam.png" alt="Hello World" width="75%" />
-<a href="ttps://git.io/typing-svg""><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
+<p align="center"> 
+	<img src="https://i.ibb.co/sqX60rb/nam.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="8%" /> <br/>
+	<img src="https://i.ibb.co/Hh7rfsV/hi.png" alt="GitHub Banner" width="75%" />
+	
+	<a href="ttps://git.io/typing-svg""><img src="https://readme-typing-svg.herokuapp.com?		 
+        font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-	 
+        Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/sqX60rb/nam.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="8%" /> <br/>
-<img src="https://i.ibb.co/Hh7rfsV/hi.png" alt="GitHub Banner" width="75%" />	
+	
 </p>
 
  -->
