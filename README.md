@@ -3,14 +3,14 @@
 <p align="center"> 
 <img src="https://i.ibb.co/sqX60rb/nam.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="8%" /> <br/>
 <img src="https://i.ibb.co/Hh7rfsV/hi.png" alt="GitHub Banner" width="75%" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=I'm+from+Mauritania;Computer+Science+Student;Full-	 
-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊" alt="Typing SVG" /></a>
+
 
 <a href="ttps://git.io/typing-svg""><img src="https://readme-typing-svg.herokuapp.com?		 font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines="></a>
 </p>
 
 <p align="center">
-	
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=I'm+from+Mauritania;Computer+Science+Student;Full-	 
+Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊" alt="Typing SVG" /></a>
 </p>
 
  -->
