@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/q7FWt5J/banner-github.jpg" alt="GitHub Banner" width="100%" />
 
 <p align="center"> 
-<img src="https://i.ibb.co/sqX60rb/nam.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="8%" /> <br/>
+<img src="https://i.ibb.co/sqX60rb/nam.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="7%" /> <br/>
 <img src="https://i.ibb.co/Hh7rfsV/hi.png" alt="GitHub Banner" width="75%" />
 </p>
 
