@@ -2,6 +2,7 @@
 
 <p align="center"> <img src="https://i.ibb.co/F5t7z1w/scam.png" alt="Hello World" width="75%" />
 <a href="ttps://git.io/typing-svg""><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=2b2b2b&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+from+Mauritania;Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊"></a>
+	<iframe src="https://giphy.com/embed/m0dmKBkncVETJv2h0S" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/wave-hand-m0dmKBkncVETJv2h0S">via GIPHY</a></p>
 </p>
 
 
