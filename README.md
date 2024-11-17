@@ -5,15 +5,11 @@
 <img src="https://i.ibb.co/Hh7rfsV/hi.png" alt="GitHub Banner" width="75%" />
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=I'm+from+Mauritania;Computer+Science+Student;Full-	 
-Stack+Developer;Competitive+Programmer🧑‍💻;Always+learning+new+things+😎;Open+for+new+job+Opportunity+😊" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20from%20Mauritania;Computer%20Science%20Student;Full-stack%20developer;Competitive%20Programmer;Always%20learning%20new%20things;Open%20for%20a%20new%20job%20Opportunity&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20from%20Mauritania;Computer%20Science%20Student;Full-stack%20developer;Competitive%20Programmer;Always%20learning%20new%20things;Open%20for%20a%20new%20job%20Opportunity&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=32" /></a>
 </p>
 
 
