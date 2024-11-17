@@ -199,7 +199,5 @@
 <!-- Counter section -->
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=Profile%20views&color=0e75b6&style=flat" alt="sidichrifahmedmaadh" /> 
-	<img src="https://i.ibb.co/w6FHHwc/giphy.gif" alt="sidichrifahmedmaadh" /> 
-
 </div>
 
