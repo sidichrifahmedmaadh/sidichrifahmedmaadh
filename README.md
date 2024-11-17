@@ -94,16 +94,16 @@
   <h2 > <img src = "https://i.ibb.co/925gq6k/giphy.gif" width = 60px>  Database and Cloud Hosting : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 55px> DevOps : </h2>
+  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 60px> DevOps : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 45px> IDEs : </h2>
+  <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px > IDEs : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij" /></p>
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 45px> Framework : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
   
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 45px> Testing : </h2>
+  <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
   
 
   <h2 > <img src = "https://i.ibb.co/FWBnvWF/giphy-gif-cid-790b7611k7uaiafos3cmtghppnh2o6qn436809t32g6qra34-ep-v1-stickers-search-rid-giphy.gif" width = 45px> AI/ML : </h2>
