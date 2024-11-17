@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/yQQ3LvV/Capture-d-cran-2024-11-17-115532.png" alt="GitHub Banner" width="22%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="5%" /> 
+<img src="https://i.ibb.co/yQQ3LvV/Capture-d-cran-2024-11-17-115532.png" alt="GitHub Banner" width="30%" /> <img src="https://i.ibb.co/cQTJPqC/giphy.gif" alt="GitHub Banner" width="8%" /> 
 </p>
 
  -->
