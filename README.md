@@ -191,7 +191,7 @@
 </details>
 
 <!-- Snake section -->
-<h2> <img src = "https://img.icons8.com/?size=100&id=hriBeNkYvJLJ&format=png&color=000000" width = 45px> A Snake Eating my Contributions Graph : </h2>
+<h2> <img src = "https://i.ibb.co/n8N9GtW/giphy-gif-cid-790b7611ehvw3hr176vkdkgvscb4ib99dmm3hv7sompw8fnq-ep-v1-stickers-search-rid-giphy.gif" width = 45px> A Snake Eating my Contributions Graph : </h2>
 <br/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
 
