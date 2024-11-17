@@ -76,7 +76,8 @@
 
 
 <details> 
-  <summary><h2>  <img src="https://i.ibb.co/tDh2Zc2/giphy.gif" width=55px> My Favorite Tools : </h2></summary>
+  <summary><h2>  <img src="https://i.ibb.co/tDh2Zc2/giphy.gif" width=55px> My Favorite Tools : 
+  </h2></summary>
   <h2 > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =45px> 		 
    Programming Languages :</h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /></p>
