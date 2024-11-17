@@ -109,7 +109,7 @@
 
 <!-- Competitive Programming & Problem Solving Profiles section -->
 <details> 
-  <summary><h2> <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 55px>  My Competitive Programming & Problem Solving Profiles </h2></summary>
+  <summary><h2> <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 55px>  My Competitive Programming Profiles </h2></summary>
 <p align="center" width=100%>
     <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
