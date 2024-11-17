@@ -45,10 +45,9 @@
     <a href="https://www.hackerrank.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
-
 <!-- Socials section -->
-<h2 > <img src = "https://i.ibb.co/3p135D1/giphy-gif-cid-790b7611vhlo411uai8wi8e05r4865d7jmbz4lg7169zfmox-ep-v1-stickers-search-rid-giphy.gif" width = 10%> 
-Connect with me : </h2>
+<h2 > <img src = "https://media.giphy.com/media/ssiupoE1GSIPK22jm4/giphy.gif?cid=790b7611wrmzp1otl31i0gsplvggr57sp8bwyti209jfhmih&ep=v1_stickers_search&rid=giphy.gif&ct=s
+" width = 10%> Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
