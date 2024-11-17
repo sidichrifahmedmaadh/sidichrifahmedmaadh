@@ -47,7 +47,8 @@
 
 
 <!-- Socials section -->
-<h2 > <img src = "https://img.icons8.com/?size=100&id=mktXQDltMO7j&format=png&color=000000" width = 55px> Connect with me : </h2>
+<h2 > <img src = "https://i.ibb.co/2NcHnXH/giphy-gif-cid-790b7611vhlo411uai8wi8e05r4865d7jmbz4lg7169zfmox-ep-v1-stickers-search-rid-giphy.gif" width = 55px> 
+Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
