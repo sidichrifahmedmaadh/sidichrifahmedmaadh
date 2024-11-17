@@ -102,7 +102,7 @@
   <h2 > <img src = "https://i.ibb.co/LDK1yw7/giphy.gif" width = 50px>  Database and Cloud Hosting : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 60px> DevOps : </h2>
+  <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 65px> DevOps : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
   <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px > IDEs : </h2>
