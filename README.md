@@ -106,7 +106,7 @@
   <h2 > <img src = "https://img.icons8.com/?size=100&id=CPpEk1LXJJim&format=png&color=000000" width = 60px> Testing : </h2>
   
 
-  <h2 > <img src = "https://i.ibb.co/Pm1X55q/giphy-gif-cid-790b7611k7uaiafos3cmtghppnh2o6qn436809t32g6qra34-ep-v1-stickers-search-rid-giphy.gif" width = 60px> AI/ML : </h2>
+  <h2 > <img src = "https://i.ibb.co/Pm1X55q/giphy-gif-cid-790b7611k7uaiafos3cmtghppnh2o6qn436809t32g6qra34-ep-v1-stickers-search-rid-giphy.gif" width = 70px> AI/ML : </h2>
   
 
   <h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 45px> Operating Systems : </h2>
