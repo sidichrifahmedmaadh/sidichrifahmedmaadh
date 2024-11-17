@@ -96,7 +96,7 @@
   <h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 45px> Backend Development : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=spring" /></p>
 
-  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 55px> Mobile App Development : </h2>
+  <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 60px> Mobile App Development : </h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart" /></p>
 
   <h2 > <img src = "https://i.ibb.co/LDK1yw7/giphy.gif" width = 50px>  Database and Cloud Hosting : </h2>
