@@ -91,7 +91,7 @@
   <h2 > <img src = "https://i.ibb.co/nM5RZkz/Front-End.gif" width = 55px> Mobile App Development : </h2>
    <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart" /></p>
 
-  <h2 > <img src = "https://img.icons8.com/?size=100&id=0kgvtD965bo3&format=png&color=000000" width = 45px>  Database and Cloud Hosting : </h2>
+  <h2 > <img src = "https://i.ibb.co/925gq6k/giphy.gif" width = 45px>  Database and Cloud Hosting : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
   <h2 > <img src = "https://i.ibb.co/6D5Z5hk/Software-Tools.gif" width = 55px> DevOps : </h2>
