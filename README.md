@@ -47,7 +47,7 @@
 
 
 <!-- Socials section -->
-<h2 > <img src = "https://i.ibb.co/2NcHnXH/giphy-gif-cid-790b7611vhlo411uai8wi8e05r4865d7jmbz4lg7169zfmox-ep-v1-stickers-search-rid-giphy.gif" width = 6.5%> 
+<h2 > <img src = "https://i.ibb.co/2NcHnXH/giphy-gif-cid-790b7611vhlo411uai8wi8e05r4865d7jmbz4lg7169zfmox-ep-v1-stickers-search-rid-giphy.gif" width = 10%> 
 Connect with me : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
