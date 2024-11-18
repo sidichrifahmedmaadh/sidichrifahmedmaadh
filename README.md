@@ -37,7 +37,7 @@
 
 
 <!-- Socials section -->
-<h2 > <img src = "https://i.ibb.co/GTqDB0g/giphy.gif" width = 55px> Connect with me </h2>
+<h2 > <img src = "https://i.ibb.co/GTqDB0g/giphy.gif" width = 70px> Connect with me </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
