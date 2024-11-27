@@ -173,6 +173,9 @@
 
 <div>
    <p align="center">
+	<a href="https://github.com/sidichrifahmedmaadh/MySolvings">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=MySolvings&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_SOMAPR">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_SOMAPR&theme=tokyonight" alt="GitHub Stats" />
     	</a>
