@@ -170,7 +170,7 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
-https://github.com/sidichrifahmedmaadh/GoogleInterfaceSimulation.git
+
 <div>
    <p align="center">
 	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_SOMAPR">
