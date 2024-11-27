@@ -91,7 +91,7 @@
    <p align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=KWdW3xrUIkGL&format=png&color=000000" width = 45px> Frontend Development :</h2>
-  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=T0drIznsJmCi&format=png&color=000000" width = 45px> Backend Development : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=spring" /></p>
