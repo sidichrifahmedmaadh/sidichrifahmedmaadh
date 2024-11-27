@@ -106,7 +106,7 @@
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
   <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px > IDEs : </h2>
-  <p align="center"><img src="https://skillicons.dev/icons?i=devpp,vscode,pycharm,anaconda" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,anaconda" /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
   
@@ -115,7 +115,7 @@
   <p align="center"><img src="https://skillicons.dev/icons?i=postman" /></p>
 
   <h2 > <img src = "https://i.ibb.co/Pm1X55q/giphy-gif-cid-790b7611k7uaiafos3cmtghppnh2o6qn436809t32g6qra34-ep-v1-stickers-search-rid-giphy.gif" width = 70px> AI/ML : </h2>
-  
+  <p align="center"><img src="https://skillicons.dev/icons?i=colab" /></p>
 
   <h2 > <img src = "https://i.ibb.co/vZQZ5kZ/OS.gif" width = 55px> Operating Systems : </h2>
   <p align="center"><img src="https://skillicons.dev/icons?i=windows,ubuntu" /></p>
