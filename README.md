@@ -106,7 +106,7 @@
   <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></p>
 
   <h2 > <img src = "https://i.ibb.co/C5LdqQ3/IDEs.gif" width = 60px > IDEs : </h2>
-  <p align="center"><img src="https://skillicons.dev/icons?i=vscode,pycharm,jetbrains,intellij" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=vscode,pycharm,jetbrains,anaconda" /></p>
 
   <h2 > <img src = "https://img.icons8.com/?size=100&id=fkxpA56WE1i1&format=png&color=000000" width = 60px> Framework : </h2>
   
