@@ -31,7 +31,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - ✍🏻 I love using Software as a solution for every Problem.
 - 😎 Always learning new things.
-- :thinking: This is [MY RESUME]().
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1w5D3iPeZThQWXO-vnhodsMFtNqpmB9u5/view?usp=sharing).
 
 
 
