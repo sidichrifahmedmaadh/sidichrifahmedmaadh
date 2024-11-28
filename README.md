@@ -182,8 +182,8 @@
 	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_MonProf">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_MonProf&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/sidichrifahmedmaadh/studentInfoSystem_in_javaSwingNetbeans">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=studentInfoSystem_in_javaSwingNetbeans&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/sidichrifahmedmaadh/studentInfoSystem_javaSwingNetbeans">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=studentInfoSystem_javaSwingNetbeans&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
