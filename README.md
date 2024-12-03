@@ -30,7 +30,7 @@
 - :school: I am a `student` of computer science and information technology at [LIU University](https://www.liu.edu.lb/).
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - ✍🏻 I love using Software as a solution for every Problem.
-- 😎 Always learning new things, this is [MY SELF EDUCATION](https://docs.google.com/spreadsheets/d/1ZML9h4zXsLC8KIx6g4DR-lsSJ7VzN-aj-Meo9Lrdt7w/edit?usp=drive_link).
+- 😎 Always learning new things, this is [MY SELF EDUCATION](https://docs.google.com/spreadsheets/d/1ZML9h4zXsLC8KIx6g4DR-lsSJ7VzN-aj-Meo9Lrdt7w/edit?usp=sharing).
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1w5D3iPeZThQWXO-vnhodsMFtNqpmB9u5/view?usp=sharing).
 
 
