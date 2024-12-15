@@ -173,8 +173,8 @@
 
 <div>
    <p align="center">
-	<a href="https://github.com/sidichrifahmedmaadh/MySolvings">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=MySolvings&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidichrifahmedmaadh/MySolutions">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=MySolutions&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/sidichrifahmedmaadh/CleanYourEar-Game">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=CleanYourEar-Game&theme=tokyonight" alt="GitHub Stats" />
