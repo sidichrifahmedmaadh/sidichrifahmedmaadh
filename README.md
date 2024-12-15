@@ -15,10 +15,10 @@
 <!-- Github badges section -->
 <p align="center">  
 
-  <a href="https://github.com/sidichrifahmedmaadh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidichrifahmedmaadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/sidichrifahmedmaadh?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidichrifahmedmaadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/sidi-maadh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidi-maadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/sidi-maadh?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidi-maadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
 
@@ -42,10 +42,10 @@
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sidichrifahmedmaadh/" target="_blank">
+  <a href="https://www.linkedin.com/in/sidi-maadh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://facebook.com/sidichrifahmedmaadh" target="_blank">
+  <a href="https://facebook.com/sidi-maadh" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/SidiMaadh" target="_blank">
@@ -130,7 +130,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidichrifahmedmaadh&theme=tokyonight_duo" alt="sidichrifahmedmaadh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sidi-maadh&theme=tokyonight_duo" alt="sidi-maadh" /></p>
 
 </details>
   
@@ -140,8 +140,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="sidichrifahmedmaadh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidichrifahmedmaadh&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidichrifahmedmaadh&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sidichrifahmedmaadh" height="230px"/>
+	    <img alt="sidi-maadh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidi-maadh&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidi-maadh&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sidi-maadh" height="230px"/>
 <br/>
 
 </details>
@@ -150,9 +150,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidichrifahmedmaadh&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sidichrifahmedmaadh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidi-maadh&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sidi-maadh" /></a> </p>
 
-[![@sidichrifahmedmaadh's Holopin board](https://holopin.io/api/user/board?user=sidi_maadh)](https://holopin.io/@sidichrifahmedmaadh)
+[![@sidi-maadh's Holopin board](https://holopin.io/api/user/board?user=sidi_maadh)](https://holopin.io/@sidi-maadh)
 	
 </details>
 
@@ -161,7 +161,7 @@
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidichrifahmedmaadh&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidi-maadh&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
@@ -173,31 +173,31 @@
 
 <div>
    <p align="center">
-	<a href="https://github.com/sidichrifahmedmaadh/MySolutions">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=MySolutions&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/MySolutions">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=MySolutions&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/sidichrifahmedmaadh/CleanYourEar-Game">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=CleanYourEar-Game&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/CleanYourEar-Game">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=CleanYourEar-Game&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_SOMAPR">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_SOMAPR&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/SiteWeb_SOMAPR">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=SiteWeb_SOMAPR&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/sidichrifahmedmaadh/SiteWeb_MonProf">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=SiteWeb_MonProf&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/SiteWeb_MonProf">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=SiteWeb_MonProf&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/sidichrifahmedmaadh/studentSystem_javaSwingNetbeans">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=studentSystem_javaSwingNetbeans&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/sidi-maadh/studentSystem_javaSwingNetbeans">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=studentSystem_javaSwingNetbeans&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/sidichrifahmedmaadh/JAVA_FileManipulation">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
-	<a href="https://github.com/sidichrifahmedmaadh/GoogleInterfaceSimulation">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidichrifahmedmaadh&repo=GoogleInterfaceSimulation&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/sidi-maadh/JAVA_FileManipulation">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/GoogleInterfaceSimulation">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=GoogleInterfaceSimulation&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
  	
   <p align="center">
    	<b>
-		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh?tab=repositories"> project repository</a>  a star on Github and <br/>
+		If you like it, give the <a href="https://github.com/sidi-maadh?tab=repositories"> project repository</a>  a star on Github and <br/>
 		share with your friends!! I will be happy with it! ❤️
 	</b>
   </p>
@@ -210,11 +210,11 @@
 <!-- Snake section -->
 <h2> <img src = "https://i.ibb.co/pzWbgx6/giphy-gif-cid-790b7611zprzxxd9xy5cj21z3qp9zya8wltvwwdimj2to8fr-ep-v1-stickers-search-rid-giphy.gif" width = 40px> A Snake Eating my Contributions Graph : </h2>
 <br/>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidichrifahmedmaadh/sidichrifahmedmaadh/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidi-maadh/sidi-maadh/output/github-contribution-grid-snake.svg" />
 
 
 <!-- Counter section -->
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=sidichrifahmedmaadh&label=Profile%20views&color=0e75b6&style=flat" alt="sidichrifahmedmaadh" /> 
+	<img src="https://komarev.com/ghpvc/?username=sidi-maadh&label=Profile%20views&color=0e75b6&style=flat" alt="sidi-maadh" /> 
 </div>
 
