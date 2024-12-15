@@ -182,11 +182,8 @@
 	<a href="https://github.com/sidi-maadh/SiteWeb_SOMAPR">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=SiteWeb_SOMAPR&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/sidi-maadh/SiteWeb_MonProf">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=SiteWeb_MonProf&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/sidi-maadh/studentSystem_javaSwingNetbeans">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=studentSystem_javaSwingNetbeans&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/sidi-maadh/universitySystem_javaSwing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=universitySystem_javaSwing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/sidi-maadh/JAVA_FileManipulation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sidi-maadh&repo=JAVA_FileManipulation&theme=tokyonight" alt="GitHub Stats" />
