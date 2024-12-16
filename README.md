@@ -71,7 +71,7 @@
 <!-- Competitive Programming & Problem Solving Profiles section -->
 ## <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 55px> My Competitive Programming & Problem Solving Profiles
 <p align="center" width=100%>
-    <a href="https://leetcode.com/u/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
+    <a href="https://leetcode.com/sidi-maadh/"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
     <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
     <a href="https://atcoder.jp/users/sidi_maadh"><img src="https://i.ibb.co/PDz3s4b/images-4-removebg-preview.png" alt="AtCode" width=80/></a>    
