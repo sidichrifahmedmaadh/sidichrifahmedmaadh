@@ -13,14 +13,14 @@
 
 
 <!-- Github badges section -->
-<p align="center">  
 
-  <a href="https://github.com/sidi-maadh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidi-maadh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/sidi-maadh?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sidi-maadh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<div align="center">
 
-</p>
+![GitHub followers](https://img.shields.io/github/followers/sidi-maadh?style=for-the-badge&logo=github&labelColor=1155ba&color=236ad3)
+![GitHub User's stars](https://img.shields.io/github/stars/sidi-maadh?style=for-the-badge&logo=github&labelColor=488207&color=55960c)
+![GitHub watchers](https://img.shields.io/github/watchers/sidi-maadh/sidi-maadh?style=for-the-badge&logo=github&label=Views&labelColor=000000&color=2F4F4F)
+
+</div>
 
 <!-- Info section -->
 ## <img src = "https://i.ibb.co/G3F3y9z/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 55px> About me 
