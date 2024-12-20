@@ -214,8 +214,3 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sidi-maadh/sidi-maadh/output/github-contribution-grid-snake.svg" />
 
 
-<!-- Counter section -->
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=sidi-maadh&label=Profile%20views&color=0e75b6&style=flat" alt="sidi-maadh" /> 
-</div>
-
